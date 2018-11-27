@@ -12,3 +12,5 @@ node index.js
 - 类似jQuery的选择器易于书写 
 
 更多介绍：http://www.xiaoboy.com/detail/2015030617.html
+
+转自：https://github.com/satrong/node-webcrawler！！！ 不以商业目的，只为学习
